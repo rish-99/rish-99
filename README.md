@@ -1,10 +1,10 @@
 ![logo](https://github.com/rish-99/rish-99/blob/main/4182a9dd330c6442c4a1fbc78274d838.jpg)
 <h1 align="center">Hi 👋, I'm Risini Methmini</h1>
-<h3 align="center">Full-Stack Developer | University Of Moratuwa | IT Undergraduate</h3>
+<h3 align="center">Trainee QA Engineer | University Of Moratuwa | IT Undergraduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rish-99&label=Profile%20views&color=0e75b6&style=flat" alt="rish-99" /> </p>
 
-- 👯 I’m looking to collaborate on **Full Stack Web Projects**
+- 👯 I’m looking to collaborate on **Full Stack Web Projects** with testing
 
 - 📝 I regularly write articles on [https://medium.com/@risinimethmini](https://medium.com/@risinimethmini)
 
